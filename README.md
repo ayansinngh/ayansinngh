@@ -27,38 +27,7 @@
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,html,css,bash,powershell&theme=dark&perline=10" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,nodejs,tailwind,numpy,pandas,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=12" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb&theme=dark&perline=10" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,postman,figma,vercel,netlify&theme=dark&perline=10" />
-
-</div>
-
-<br/>
-
-### 🚀 Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Project One**](https://github.com/ayansinngh?tab=repositories) | Short one-line description | `Python` |
-| [**Project Two**](https://github.com/ayansinngh?tab=repositories) | Short one-line description | `Python` `Flask` |
-| [**Project Three**](https://github.com/ayansinngh?tab=repositories) | Short one-line description | `HTML` `CSS` `JS` |
-| [**Project Four**](https://github.com/ayansinngh?tab=repositories) | Short one-line description | `Python` |
-
-<div align="center">
-
-[![All Repositories](https://img.shields.io/badge/View%20all%20repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayansinngh?tab=repositories)
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css,powershell,git,github&theme=dark&perline=8" />
 
 </div>
 
@@ -70,10 +39,6 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayansinngh&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayansinngh&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/8B9DFF/ayansinngh" width="95%" alt="Contribution graph" />
 
 </div>
 
